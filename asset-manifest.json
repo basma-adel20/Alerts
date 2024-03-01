@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Alerts/static/css/main.5873df20.css",
+    "main.js": "/Alerts/static/js/main.aec83190.js",
+    "static/js/453.90eab9dc.chunk.js": "/Alerts/static/js/453.90eab9dc.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Alerts/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/fa-brands-400.ttf": "/Alerts/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Alerts/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/Alerts/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/Alerts/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/street suite logo-04-2.png": "/Alerts/static/media/street suite logo-04-2.12b29b3bfb126eb0f9d3.png",
+    "static/media/fa-regular-400.woff2": "/Alerts/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Alerts/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Alerts/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "static/media/logo.svg": "/Alerts/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Alerts/index.html",
+    "static/media/money.PNG": "/Alerts/static/media/money.4a0b9f4cff26806b6709.PNG",
+    "static/media/utility.PNG": "/Alerts/static/media/utility.2e85454e059c5a3f6c8a.PNG",
+    "static/media/chat.PNG": "/Alerts/static/media/chat.0282e5afc3c79c6a7e12.PNG",
+    "static/media/it.PNG": "/Alerts/static/media/it.282a506cffd56324421c.PNG",
+    "static/media/real.PNG": "/Alerts/static/media/real.cba9ed3d72e5c7a87bec.PNG",
+    "static/media/industry.PNG": "/Alerts/static/media/industry.b6da3c8624dc4db2e9ab.PNG",
+    "static/media/Materiales.PNG": "/Alerts/static/media/Materiales.578b113c757be81c5311.PNG",
+    "static/media/Health.PNG": "/Alerts/static/media/Health.e8f891b186edb8c3c303.PNG",
+    "static/media/Energy.PNG": "/Alerts/static/media/Energy.76e55cd785d08a92f60d.PNG",
+    "static/media/consumer2.PNG": "/Alerts/static/media/consumer2.51e3c21bf548fb635636.PNG",
+    "static/media/consumer1.PNG": "/Alerts/static/media/consumer1.a7ef186a0454f05667c8.PNG",
+    "main.5873df20.css.map": "/Alerts/static/css/main.5873df20.css.map",
+    "main.aec83190.js.map": "/Alerts/static/js/main.aec83190.js.map",
+    "453.90eab9dc.chunk.js.map": "/Alerts/static/js/453.90eab9dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5873df20.css",
+    "static/js/main.aec83190.js"
+  ]
+}
